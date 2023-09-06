@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">A passionate fullstack developer from Nuremberg, Germany</h3>
 
-- 🔭 I’m currently working on **an Event driven Salesforce integration platform for a scale-up PropTech Company**
-
-- 💼  currently work at CodeCamp:N an digital tech and talent incubator and innovation lab of Nuernberger Versicherung AG
-
-- 🌱 I’m currently learning **Event-Driven Architecture**
-
 - 💬 Ask me about **Software architecture, NodeJs, React, Java, NX Monorepo**
 
 - 📫 How to reach me **lukas.faatz@gmail.com**
